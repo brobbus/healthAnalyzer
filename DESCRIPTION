@@ -1,0 +1,12 @@
+Package: healthAnalyzer
+Title: Health Data Analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person("Brendan", "Kearney", , "brendan-kearney@t-online.de", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: A package to analyze health data, including functions to calculate Body Mass Index (BMI) and estimate daily calorie needs.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
